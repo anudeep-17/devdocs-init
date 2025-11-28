@@ -5,6 +5,15 @@
   "bin": {
     "devdocs-init": "dist/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anudeep-17/devdocs-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anudeep-17/devdocs-init/issues"
+  },
+  "homepage": "https://github.com/anudeep-17/devdocs-init#readme",
+
   "type": "commonjs",
   "main": "dist/index.js",
   "scripts": {
